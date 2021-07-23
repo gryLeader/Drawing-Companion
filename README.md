@@ -1,5 +1,5 @@
 # Pen & Ink Drawing Companion ✏️
-Pen &amp; Ink offline utility app written in html and vanilla JS. Only ~75kb, in a single html file!.
+**Pen &amp; Ink offline utility app 📊 written in html and vanilla JS. Only ~75kb, in a single html file!.**
 
 ## Demo
 https://gryleader.github.io/drawing-companion/penink-min.html
@@ -19,7 +19,10 @@ https://gryleader.github.io/drawing-companion/penink-min.html
 
 5️⃣ If you want you can save the adjusted image and reuse it in other apps.
 
-### Support / Tips
+### Additional notes:
+Uses **Cropper.js** v1.5.12 by *Chen Fengyuan* (MIT license) to crop the images.
+
+## Support / Tips
 [![paypal](https://github.com/gryLeader/gryleader.github.io/blob/Main/imgs/paypalme.png)](https://paypal.me/EzequielMayan)
 
 Thanks for your support! It will allow me to continue developments and start new projects. Blessings.
